@@ -1,4 +1,4 @@
-// This program demonstrates pointer arithmetic with arrays in C++.
+// This program show pointer arithmetic with arrays in C++.
 
 #include <iostream>  // Include the input-output stream library
 

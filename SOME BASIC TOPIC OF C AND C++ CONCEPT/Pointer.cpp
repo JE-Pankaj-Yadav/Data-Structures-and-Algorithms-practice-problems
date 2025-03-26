@@ -1,4 +1,4 @@
-// This program demonstrates the use of pointers in C++.
+// This program show the use of pointers in C++.
 
 #include <iostream>  // Include the input-output stream library
 
